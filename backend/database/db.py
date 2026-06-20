@@ -23,4 +23,4 @@ def get_db():
     finally:
         db.close()
 
-SessionLocal = AsyncSessionLocal
+
